@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ['Francis Carriere']
   s.email       = 'senatorsfc@gmail.com'
   s.files       = ['lib/apple-section-twine-formatter.rb']
-  s.homepage    = 'http://rubygems.org/gems/apple-section-twine-formatter'
   s.license     = 'MIT'
   s.metadata    = {
     'source_code_uri' => 'https://github.com/senatorsfc/apple-section-twine-formatter'
